@@ -1,6 +1,6 @@
 # Coding exercise interview
 
-## 1. Profinit coding exercise - React
+## 1. Coding exercise - React
 
 The exercise is to create a simple single page application, that displays tasks that needs to be done - a TODO list.
 
